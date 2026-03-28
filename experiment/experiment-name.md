@@ -1,1 +1,1 @@
-## Experiment name
+## Finding Minima Using Bisection Method

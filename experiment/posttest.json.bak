@@ -1,0 +1,20 @@
+[
+   {
+      "question": "$$ \\text{Initial guess} \\quad x1 = 0 \\quad and \\quad x2 = 1 $$ $$ x3 = \\frac{x1 + x2}{2} $$ $$\\text{equation } =  exp(x) × cos(x) -1.4 $$ $$\\text{What is function value of 8th iteration using bisection method?}$$",
+      "qid": 1,
+      "option_a": "-0.00292",
+      "option_b": "0.00295",
+      "option_c": "0.00002",
+      "option_d": "-0.00145",
+      "correct_option": "c"
+   },
+   {
+      "question": "$$ \\text{Initial guess} \\quad x1 = 0 \\quad and \\quad x2 = 1 $$ $$ x3 = \\frac{x1 + x2}{2} $$ $$\\text{equation } =  exp(x) × cos(x) -1.4 $$ $$\\text{What is root value of 8th iteration using bisection method?}$$",
+      "qid": 2,
+      "option_a": "0.43359",
+      "option_b": "0.40625",
+      "option_c": "0.42969",
+      "option_d": "0.43164",
+      "correct_option": "a"
+   }
+]
