@@ -1,0 +1,303 @@
+
+/home/runner/work/exp-interval-bisection-iitb/exp-interval-bisection-iitb/experiment/simulation/common_libraries/js/ts_components/collapse_step.js
+   1:10  warning  'show_step' is defined but never used                 no-unused-vars
+   2:5   warning  '$' is not defined                                    no-undef
+   3:9   warning  '$' is not defined                                    no-undef
+   6:10  warning  'hide_step' is defined but never used                 no-unused-vars
+   7:5   warning  '$' is not defined                                    no-undef
+   8:9   warning  '$' is not defined                                    no-undef
+  11:10  warning  'get_collapse_btn_text' is defined but never used     no-unused-vars
+  20:10  warning  'get_collapse_btn_element' is defined but never used  no-unused-vars
+  29:10  warning  'hide_all_steps' is defined but never used            no-unused-vars
+  31:9   warning  '$' is not defined                                    no-undef
+
+/home/runner/work/exp-interval-bisection-iitb/exp-interval-bisection-iitb/experiment/simulation/common_libraries/js/ts_components/matrix.js
+   27:26  warning  'MathJax' is not defined                                no-undef
+   32:7   warning  'Matrix_Without_String' is defined but never used       no-unused-vars
+   52:26  warning  'MathJax' is not defined                                no-undef
+   56:10  warning  'get_matrix_html' is defined but never used             no-unused-vars
+   87:13  warning  'row_html' is assigned a value but never used           no-unused-vars
+   99:10  warning  'get_matrix_html_with_title' is defined but never used  no-unused-vars
+  131:13  warning  'row_html' is assigned a value but never used           no-unused-vars
+  143:10  warning  'convert_2d_to_1d_vector' is defined but never used     no-unused-vars
+  156:10  warning  'convert_1d_to_2d_matrix' is defined but never used     no-unused-vars
+
+/home/runner/work/exp-interval-bisection-iitb/exp-interval-bisection-iitb/experiment/simulation/common_libraries/js/ts_components/matrix_2d.js
+    2:10  warning  'toLatexBMatrix' is defined but never used              no-unused-vars
+   29:10  warning  'toLatexDeterminant' is defined but never used          no-unused-vars
+   61:10  warning  'renderMatrixInputs' is defined but never used          no-unused-vars
+  111:10  warning  'readMatrix2D' is defined but never used                no-unused-vars
+  130:10  warning  'verifyMatrix2D' is defined but never used              no-unused-vars
+  141:18  warning  'verify_values' is not defined                          no-undef
+  148:10  warning  'transposeMatrix' is defined but never used             no-unused-vars
+  165:10  warning  'multiplyMatrices' is defined but never used            no-unused-vars
+  200:10  warning  'inverseMatrix' is defined but never used               no-unused-vars
+  255:10  warning  'determinant' is defined but never used                 no-unused-vars
+  305:10  warning  'convertMatrixInputsToSpans' is defined but never used  no-unused-vars
+
+/home/runner/work/exp-interval-bisection-iitb/exp-interval-bisection-iitb/experiment/simulation/common_libraries/js/ts_components/pannel.js
+  8:7  warning  'Pannel' is defined but never used  no-unused-vars
+
+/home/runner/work/exp-interval-bisection-iitb/exp-interval-bisection-iitb/experiment/simulation/common_libraries/js/ts_components/questions.js
+   6:17  warning  'op1' is assigned a value but never used      no-unused-vars
+   7:17  warning  'op2' is assigned a value but never used      no-unused-vars
+   8:17  warning  'op3' is assigned a value but never used      no-unused-vars
+   9:17  warning  'op4' is assigned a value but never used      no-unused-vars
+  94:7   warning  'Question_Options' is defined but never used  no-unused-vars
+
+/home/runner/work/exp-interval-bisection-iitb/exp-interval-bisection-iitb/experiment/simulation/common_libraries/js/ts_components/tables.js
+   19:22  warning  'verify_values' is not defined                                     no-undef
+  137:22  warning  'verify_values' is not defined                                     no-undef
+  260:7   warning  'Verify_Rows_Cols_6_decimal_places' is defined but never used      no-unused-vars
+  311:22  warning  'verify_values' is not defined                                     no-undef
+  416:7   warning  'Verify_Rows_Cols_Custom_Fixed_Update1' is defined but never used  no-unused-vars
+  468:7   warning  'Show_Table_Custom_Fixed' is defined but never used                no-unused-vars
+  506:7   warning  'Verify_Rows_Cols_Strings' is defined but never used               no-unused-vars
+  527:22  warning  'verify_values' is not defined                                     no-undef
+  663:7   warning  'Display_Table' is defined but never used                          no-unused-vars
+
+/home/runner/work/exp-interval-bisection-iitb/exp-interval-bisection-iitb/experiment/simulation/common_libraries/js/ts_math_library/general_math_functions.js
+    1:10  warning  'verify_values' is defined but never used                   no-unused-vars
+   17:10  warning  'random1' is defined but never used                         no-unused-vars
+   21:10  warning  'std_deviation' is defined but never used                   no-unused-vars
+   26:10  warning  'gauss' is defined but never used                           no-unused-vars
+   56:10  warning  'hide_panel' is defined but never used                      no-unused-vars
+   63:10  warning  'inverse_matrix' is defined but never used                  no-unused-vars
+   96:10  warning  'matrix_multiplication' is defined but never used           no-unused-vars
+  113:10  warning  'transpose_matrix' is defined but never used                no-unused-vars
+  123:10  warning  'matrix_multiplication_8decimal' is defined but never used  no-unused-vars
+  140:10  warning  'adjoint_2x2_matrix' is defined but never used              no-unused-vars
+  145:10  warning  'find_deteminant' is defined but never used                 no-unused-vars
+  174:10  warning  'get_Submatrix' is defined but never used                   no-unused-vars
+
+/home/runner/work/exp-interval-bisection-iitb/exp-interval-bisection-iitb/experiment/simulation/common_libraries/js/ts_math_library/regression.js
+   1:10  warning  'regression_linear' is defined but never used            no-unused-vars
+  18:10  warning  'regression_linear_1variable' is defined but never used  no-unused-vars
+  27:10  warning  'regression_linear_2variable' is defined but never used  no-unused-vars
+  52:11  warning  'gauss' is not defined                                   no-undef
+
+/home/runner/work/exp-interval-bisection-iitb/exp-interval-bisection-iitb/experiment/simulation/common_libraries/math.ob.js
+  1:745  warning  'b' is already defined  no-redeclare
+
+/home/runner/work/exp-interval-bisection-iitb/exp-interval-bisection-iitb/experiment/simulation/js/activity1.js
+   22:9    warning  'MathJax' is not defined                              no-undef
+   28:5    warning  'matrix_a_inputs' is assigned a value but never used  no-unused-vars
+   28:23   warning  'get_matrix_html' is not defined                      no-undef
+   45:5    warning  'matrix_c_inputs' is assigned a value but never used  no-unused-vars
+   45:23   warning  'get_matrix_html' is not defined                      no-undef
+   51:10   warning  'start_act1' is defined but never used                no-unused-vars
+   56:20   warning  'get_collapse_btn_text' is not defined                no-undef
+   64:24   warning  'a' is not defined                                    no-undef
+   64:38   warning  'b' is not defined                                    no-undef
+   69:49   warning  'a' is not defined                                    no-undef
+   69:64   warning  'b' is not defined                                    no-undef
+   69:71   warning  'b' is not defined                                    no-undef
+   80:5    warning  'hide_all_steps' is not defined                       no-undef
+   82:9    warning  'MathJax' is not defined                              no-undef
+   84:22   warning  'show_step' is not defined                            no-undef
+   87:10   warning  'enter_values' is defined but never used              no-unused-vars
+   88:20   warning  'get_collapse_btn_text' is not defined                no-undef
+   97:29   warning  'a' is not defined                                    no-undef
+   97:44   warning  'b' is not defined                                    no-undef
+   97:52   warning  'b' is not defined                                    no-undef
+  129:5    warning  'hide_all_steps' is not defined                       no-undef
+  131:9    warning  'MathJax' is not defined                              no-undef
+  133:22   warning  'show_step' is not defined                            no-undef
+  136:15   warning  'a' is not defined                                    no-undef
+  136:39   warning  'b' is not defined                                    no-undef
+  136:57   warning  'b' is not defined                                    no-undef
+  138:10   warning  'verify_first_guess' is defined but never used        no-unused-vars
+  144:10   warning  'verify_values' is not defined                        no-undef
+  149:10   warning  'verify_values' is not defined                        no-undef
+  155:5    warning  'table_data' is not defined                           no-undef
+  172:20   warning  'get_collapse_btn_text' is not defined                no-undef
+  228:5    warning  'hide_all_steps' is not defined                       no-undef
+  230:9    warning  'MathJax' is not defined                              no-undef
+  232:22   warning  'show_step' is not defined                            no-undef
+  234:10   warning  'verify_itr_1' is defined but never used              no-unused-vars
+  240:30   warning  'table_data' is not defined                           no-undef
+  241:30   warning  'table_data' is not defined                           no-undef
+  243:10   warning  'verify_values' is not defined                        no-undef
+  248:10   warning  'verify_values' is not defined                        no-undef
+  253:10   warning  'verify_values' is not defined                        no-undef
+  258:10   warning  'verify_values' is not defined                        no-undef
+  264:5    warning  'table_data' is not defined                           no-undef
+  265:5    warning  'table_data' is not defined                           no-undef
+  266:9    warning  'msg' is assigned a value but never used              no-unused-vars
+  269:9    warning  'table_data' is not defined                           no-undef
+  269:29   warning  'table_data' is not defined                           no-undef
+  269:52   warning  'table_data' is not defined                           no-undef
+  273:9    warning  'table_data' is not defined                           no-undef
+  273:31   warning  'table_data' is not defined                           no-undef
+  273:52   warning  'table_data' is not defined                           no-undef
+  301:20   warning  'get_collapse_btn_text' is not defined                no-undef
+  343:5    warning  'hide_all_steps' is not defined                       no-undef
+  345:9    warning  'MathJax' is not defined                              no-undef
+  347:22   warning  'show_step' is not defined                            no-undef
+  349:10   warning  'verify_condition_1' is defined but never used        no-unused-vars
+  352:17   warning  'table_data' is not defined                           no-undef
+  352:35   warning  'table_data' is not defined                           no-undef
+  353:10   warning  'verify_values' is not defined                        no-undef
+  353:48   warning  'table_data' is not defined                           no-undef
+  358:10   warning  'verify_values' is not defined                        no-undef
+  358:48   warning  'table_data' is not defined                           no-undef
+  368:22   warning  'table_data' is not defined                           no-undef
+  373:22   warning  'table_data' is not defined                           no-undef
+  380:20   warning  'get_collapse_btn_text' is not defined                no-undef
+  387:34   warning  'table_data' is not defined                           no-undef
+  387:74   warning  'table_data' is not defined                           no-undef
+  441:5    warning  'hide_all_steps' is not defined                       no-undef
+  443:9    warning  'MathJax' is not defined                              no-undef
+  445:22   warning  'show_step' is not defined                            no-undef
+  447:10   warning  'verify_updated_x3' is defined but never used         no-unused-vars
+  452:15   warning  'table_data' is not defined                           no-undef
+  452:34   warning  'table_data' is not defined                           no-undef
+  454:28   warning  'table_data' is not defined                           no-undef
+  455:28   warning  'table_data' is not defined                           no-undef
+  457:10   warning  'verify_values' is not defined                        no-undef
+  462:10   warning  'verify_values' is not defined                        no-undef
+  467:10   warning  'verify_values' is not defined                        no-undef
+  472:10   warning  'verify_values' is not defined                        no-undef
+  479:9    warning  'table_data' is not defined                           no-undef
+  479:26   warning  'table_data' is not defined                           no-undef
+  479:44   warning  'table_data' is not defined                           no-undef
+  479:62   warning  'table_data' is not defined                           no-undef
+  479:80   warning  'table_data' is not defined                           no-undef
+  479:99   warning  'table_data' is not defined                           no-undef
+  479:118  warning  'table_data' is not defined                           no-undef
+  479:159  warning  'table_data' is not defined                           no-undef
+  479:178  warning  'table_data' is not defined                           no-undef
+  482:9    warning  'table_data' is not defined                           no-undef
+  482:26   warning  'table_data' is not defined                           no-undef
+  482:44   warning  'table_data' is not defined                           no-undef
+  482:62   warning  'table_data' is not defined                           no-undef
+  482:80   warning  'table_data' is not defined                           no-undef
+  482:99   warning  'table_data' is not defined                           no-undef
+  482:118  warning  'table_data' is not defined                           no-undef
+  482:159  warning  'table_data' is not defined                           no-undef
+  482:178  warning  'table_data' is not defined                           no-undef
+  510:20   warning  'get_collapse_btn_text' is not defined                no-undef
+  554:5    warning  'hide_all_steps' is not defined                       no-undef
+  556:9    warning  'MathJax' is not defined                              no-undef
+  558:22   warning  'show_step' is not defined                            no-undef
+  564:21   warning  'table_data' is not defined                           no-undef
+  565:19   warning  'table_data' is not defined                           no-undef
+  565:38   warning  'table_data' is not defined                           no-undef
+  567:32   warning  'table_data' is not defined                           no-undef
+  568:32   warning  'table_data' is not defined                           no-undef
+  570:13   warning  'table_data' is not defined                           no-undef
+  570:30   warning  'table_data' is not defined                           no-undef
+  570:48   warning  'table_data' is not defined                           no-undef
+  570:66   warning  'table_data' is not defined                           no-undef
+  570:84   warning  'table_data' is not defined                           no-undef
+  570:103  warning  'table_data' is not defined                           no-undef
+  570:122  warning  'table_data' is not defined                           no-undef
+  570:163  warning  'table_data' is not defined                           no-undef
+  570:182  warning  'table_data' is not defined                           no-undef
+  573:13   warning  'table_data' is not defined                           no-undef
+  573:30   warning  'table_data' is not defined                           no-undef
+  573:48   warning  'table_data' is not defined                           no-undef
+  573:66   warning  'table_data' is not defined                           no-undef
+  573:84   warning  'table_data' is not defined                           no-undef
+  573:103  warning  'table_data' is not defined                           no-undef
+  573:122  warning  'table_data' is not defined                           no-undef
+  573:163  warning  'table_data' is not defined                           no-undef
+  573:182  warning  'table_data' is not defined                           no-undef
+  579:5    warning  'table_data' is not defined                           no-undef
+  582:19   warning  'Show_Table_Custom_Fixed' is not defined              no-undef
+  582:51   warning  'table_data' is not defined                           no-undef
+  588:13   warning  'a' is not defined                                    no-undef
+  588:35   warning  'b' is not defined                                    no-undef
+  605:17   warning  'minima' is not defined                               no-undef
+  606:13   warning  'minima' is not defined                               no-undef
+  610:21   warning  'Chart' is not defined                                no-undef
+  654:10   warning  'verify_minima' is defined but never used             no-unused-vars
+  656:17   warning  'minima' is not defined                               no-undef
+  657:10   warning  'verify_values' is not defined                        no-undef
+  657:49   warning  'minima' is not defined                               no-undef
+  667:22   warning  'minima' is not defined                               no-undef
+
+/home/runner/work/exp-interval-bisection-iitb/exp-interval-bisection-iitb/experiment/simulation/js/activity2.js
+    1:10   warning  'activity2' is defined but never used         no-unused-vars
+   16:5    warning  'maindiv' is not defined                      no-undef
+   18:9    warning  'MathJax' is not defined                      no-undef
+   21:10   warning  'start_act2' is defined but never used        no-unused-vars
+   26:27   warning  'get_matrix_html' is not defined              no-undef
+   43:27   warning  'get_matrix_html' is not defined              no-undef
+   48:20   warning  'get_collapse_btn_text' is not defined        no-undef
+   53:44   warning  'get_matrix_html' is not defined              no-undef
+   53:66   warning  'mat_a' is not defined                        no-undef
+   53:166  warning  'get_matrix_html' is not defined              no-undef
+   53:188  warning  'mat_c' is not defined                        no-undef
+   65:5    warning  'maindiv' is not defined                      no-undef
+   66:5    warning  'hide_all_steps' is not defined               no-undef
+   69:9    warning  'MathJax' is not defined                      no-undef
+   71:22   warning  'show_step' is not defined                    no-undef
+   75:12   warning  'mat_c' is not defined                        no-undef
+   76:12   warning  'mat_c' is not defined                        no-undef
+   77:12   warning  'mat_c' is not defined                        no-undef
+   78:5    warning  'upper' is not defined                        no-undef
+   78:11   warning  'mat_a' is not defined                        no-undef
+   79:5    warning  'mat_c' is not defined                        no-undef
+   80:5    warning  'mat_c' is not defined                        no-undef
+   82:10   warning  'verify_matrix_ut' is defined but never used  no-unused-vars
+   86:32   warning  'mat_a' is not defined                        no-undef
+   87:32   warning  'mat_c' is not defined                        no-undef
+   92:18   warning  'verify_values' is not defined                no-undef
+   92:57   warning  'mat_a' is not defined                        no-undef
+  101:14   warning  'verify_values' is not defined                no-undef
+  101:53   warning  'mat_c' is not defined                        no-undef
+  108:5    warning  'activity3' is not defined                    no-undef
+  112:24   warning  'get_matrix_html' is not defined              no-undef
+  112:46   warning  'mat_a' is not defined                        no-undef
+  112:146  warning  'get_matrix_html' is not defined              no-undef
+  112:168  warning  'mat_c' is not defined                        no-undef
+
+/home/runner/work/exp-interval-bisection-iitb/exp-interval-bisection-iitb/experiment/simulation/js/activity3.js
+   1:10   warning  'activity3' is defined but never used         no-unused-vars
+  16:5    warning  'maindiv' is not defined                      no-undef
+  18:9    warning  'MathJax' is not defined                      no-undef
+  21:10   warning  'start_act3' is defined but never used        no-unused-vars
+  26:27   warning  'get_matrix_html' is not defined              no-undef
+  31:20   warning  'get_collapse_btn_text' is not defined        no-undef
+  38:44   warning  'get_matrix_html' is not defined              no-undef
+  38:66   warning  'mat_a' is not defined                        no-undef
+  38:166  warning  'get_matrix_html' is not defined              no-undef
+  38:188  warning  'mat_c' is not defined                        no-undef
+  49:5    warning  'maindiv' is not defined                      no-undef
+  50:5    warning  'hide_all_steps' is not defined               no-undef
+  53:9    warning  'MathJax' is not defined                      no-undef
+  55:22   warning  'show_step' is not defined                    no-undef
+  59:12   warning  'mat_c' is not defined                        no-undef
+  60:12   warning  'mat_c' is not defined                        no-undef
+  61:12   warning  'mat_c' is not defined                        no-undef
+  62:5    warning  'mat_x' is not defined                        no-undef
+  62:13   warning  'back_sub' is not defined                     no-undef
+  62:22   warning  'mat_a' is not defined                        no-undef
+  63:5    warning  'mat_c' is not defined                        no-undef
+  64:5    warning  'mat_c' is not defined                        no-undef
+  66:10   warning  'verify_matrix_bs' is defined but never used  no-unused-vars
+  69:32   warning  'mat_x' is not defined                        no-undef
+  73:14   warning  'verify_values' is not defined                no-undef
+  73:53   warning  'mat_x' is not defined                        no-undef
+  81:5    warning  'maindiv' is not defined                      no-undef
+  85:24   warning  'get_matrix_html' is not defined              no-undef
+  85:46   warning  'mat_a' is not defined                        no-undef
+  85:146  warning  'get_matrix_html' is not defined              no-undef
+  85:168  warning  'mat_c' is not defined                        no-undef
+
+/home/runner/work/exp-interval-bisection-iitb/exp-interval-bisection-iitb/experiment/simulation/js/data.js
+  56:5  warning  'mat_x' is assigned a value but never used       no-unused-vars
+  58:5  warning  'a' is assigned a value but never used           no-unused-vars
+  59:5  warning  'b' is assigned a value but never used           no-unused-vars
+  60:5  warning  'table_data' is assigned a value but never used  no-unused-vars
+  61:5  warning  'minima' is assigned a value but never used      no-unused-vars
+
+/home/runner/work/exp-interval-bisection-iitb/exp-interval-bisection-iitb/experiment/simulation/js/gauss_ele.js
+  42:10  warning  'gauss_ele' is defined but never used  no-unused-vars
+
+/home/runner/work/exp-interval-bisection-iitb/exp-interval-bisection-iitb/experiment/simulation/js/screen_size.js
+  1:10  warning  'set_screen_size' is defined but never used  no-unused-vars
+
+✖ 270 problems (0 errors, 270 warnings)
+
